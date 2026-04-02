@@ -1,0 +1,352 @@
+{
+  "metadata": {
+    "title": "Golden Tops | Premium Contracting & Finishing Solutions",
+    "description": "Trusted contracting, finishing, and interior solutions company delivering premium quality projects across Saudi Arabia."
+  },
+  "nav": {
+    "home": "Home",
+    "about": "About",
+    "services": "Our Services",
+    "projects": "Our Projects",
+    "contact": "Contact",
+    "getQuote": "Get a Quote",
+    "langSwitch": "العربية"
+  },
+  "hero": {
+    "eyebrow": "Trusted Contracting & Finishing Solutions",
+    "heading": "Building Excellence, Delivering Trust",
+    "subheading": "We transform spaces with precision engineering, premium finishing, and unwavering commitment to quality. Your trusted partner in contracting and construction.",
+    "cta1": "Explore Services",
+    "cta2": "Contact Us"
+  },
+  "aboutPreview": {
+    "eyebrow": "About Us",
+    "heading": "A Legacy of Quality & Trust",
+    "description": "Golden Tops is a leading contracting and finishing company dedicated to delivering premium-quality projects across Saudi Arabia. With years of experience, we specialize in design, MEP, finishing, and maintenance solutions.",
+    "pillars": [
+      {
+        "title": "Client-Centric Approach",
+        "desc": "Clients always come first."
+      },
+      {
+        "title": "Commitment to Quality",
+        "desc": "Quality in every detail."
+      },
+      {
+        "title": "Safety First",
+        "desc": "Strict standards on every site."
+      },
+      {
+        "title": "Sustainable Execution",
+        "desc": "Responsible delivery with care."
+      },
+      {
+        "title": "Innovative Solutions",
+        "desc": "Modern solutions for modern needs."
+      }
+    ],
+    "cta": "Read More"
+  },
+  "servicesPreview": {
+    "eyebrow": "What We Do",
+    "heading": "Our Core Services",
+    "description": "We offer a comprehensive range of contracting and finishing services, tailored to meet the highest standards of quality and craftsmanship."
+  },
+  "services": {
+    "pageTitle": "Our Services",
+    "pageDescription": "We deliver comprehensive contracting, finishing, and maintenance solutions with unmatched quality and precision.",
+    "items": [
+      {
+        "slug": "design-interior-solutions",
+        "title": "Design & Interior Solutions",
+        "shortDesc": "Transforming visions into reality with expert concept design, space planning, and interior styling.",
+        "description": "Our Design & Interior Solutions service brings your vision to life through expert concept design, meticulous space planning, and stunning interior styling. We combine creativity with technical precision to deliver spaces that inspire.",
+        "features": [
+          "Concept Design & Development",
+          "Space Planning & Optimization",
+          "Interior Styling & Decoration",
+          "3D Visualization & Rendering",
+          "Material Selection & Procurement"
+        ],
+        "benefits": [
+          "Tailored designs reflecting your brand identity",
+          "Optimized space utilization and functionality",
+          "Premium material sourcing and quality control",
+          "End-to-end design management"
+        ],
+        "icon": "design"
+      },
+      {
+        "slug": "mep-technical-works",
+        "title": "MEP / Technical Works",
+        "shortDesc": "Complete mechanical, electrical, and plumbing solutions with integrated technical systems.",
+        "description": "Our MEP & Technical Works division delivers comprehensive mechanical, electrical, and plumbing solutions. We ensure seamless integration of all technical systems for optimal performance and reliability.",
+        "features": [
+          "Electrical Systems & Installation",
+          "Mechanical Engineering Solutions",
+          "Plumbing & Water Systems",
+          "HVAC Coordination & Installation",
+          "Technical Systems Integration"
+        ],
+        "benefits": [
+          "Energy-efficient systems design",
+          "Compliance with international standards",
+          "Integrated technical coordination",
+          "Long-term reliability and performance"
+        ],
+        "icon": "mep"
+      },
+      {
+        "slug": "finishing-fit-out",
+        "title": "Finishing & Fit-Out",
+        "shortDesc": "Premium finishing work including painting, tiling, cladding, and detailed craftsmanship.",
+        "description": "Our Finishing & Fit-Out service delivers premium-quality results across all finishing trades. From painting to marble work, we ensure every surface meets the highest standards of craftsmanship.",
+        "features": [
+          "Professional Painting & Coatings",
+          "Wall & Ceiling Cladding",
+          "Tiles & Natural Stone Installation",
+          "Marble & Granite Works",
+          "Glass, Metal & Wood Finishing"
+        ],
+        "benefits": [
+          "Flawless execution with attention to detail",
+          "Premium materials and finishes",
+          "Experienced craftsmen and specialists",
+          "Quality assurance at every stage"
+        ],
+        "icon": "finishing"
+      },
+      {
+        "slug": "post-sales-maintenance",
+        "title": "Post-Sales & Maintenance",
+        "shortDesc": "Comprehensive warranty support, scheduled maintenance, and responsive repair services.",
+        "description": "Our Post-Sales & Maintenance service ensures your investment is protected long after project completion. We provide comprehensive warranty support, scheduled maintenance, and responsive repair handling.",
+        "features": [
+          "Warranty Support & Claims",
+          "Scheduled Preventive Maintenance",
+          "Responsive Repair Handling",
+          "Client Follow-Up Programs",
+          "Service Continuity Planning"
+        ],
+        "benefits": [
+          "Peace of mind with ongoing support",
+          "Extended asset lifespan",
+          "Rapid response to maintenance needs",
+          "Dedicated client relationship management"
+        ],
+        "icon": "maintenance"
+      }
+    ],
+    "relatedTitle": "Related Services",
+    "ctaTitle": "Ready to Get Started?",
+    "ctaDescription": "Contact us today to discuss your project requirements and discover how we can help bring your vision to life.",
+    "ctaButton": "Request Consultation"
+  },
+  "stats": {
+    "eyebrow": "Numbers Talk",
+    "heading": "Our Track Record",
+    "items": [
+      { "value": 250, "suffix": "+", "label": "Projects Completed" },
+      { "value": 120, "suffix": "+", "label": "Team Members" },
+      { "value": 180, "suffix": "+", "label": "Happy Clients" },
+      { "value": 15, "suffix": "+", "label": "Years of Experience" }
+    ]
+  },
+  "projectsPreview": {
+    "eyebrow": "Our Portfolio",
+    "heading": "Featured Projects",
+    "description": "Explore our portfolio of completed projects showcasing our commitment to quality and excellence.",
+    "viewAll": "View All Projects"
+  },
+  "projects": {
+    "pageTitle": "Our Projects",
+    "pageDescription": "Explore our portfolio of premium contracting, finishing, and interior projects delivered across Saudi Arabia.",
+    "categories": ["All", "Residential", "Commercial", "Hospitality", "Office"],
+    "items": [
+      {
+        "id": "1",
+        "title": "Al Noor Residential Tower",
+        "category": "Residential",
+        "location": "Riyadh, Saudi Arabia",
+        "description": "Premium residential finishing and interior design for a 20-floor luxury tower.",
+        "image": "/images/projects/project-1.jpg"
+      },
+      {
+        "id": "2",
+        "title": "Kingdom Commercial Center",
+        "category": "Commercial",
+        "location": "Jeddah, Saudi Arabia",
+        "description": "Complete MEP and finishing works for a modern commercial complex.",
+        "image": "/images/projects/project-2.jpg"
+      },
+      {
+        "id": "3",
+        "title": "Royal Palm Hotel & Resort",
+        "category": "Hospitality",
+        "location": "Dammam, Saudi Arabia",
+        "description": "Full interior design and fit-out for a five-star hospitality venue.",
+        "image": "/images/projects/project-3.jpg"
+      },
+      {
+        "id": "4",
+        "title": "Nexus Corporate Headquarters",
+        "category": "Office",
+        "location": "Riyadh, Saudi Arabia",
+        "description": "Modern office fit-out with integrated smart building systems.",
+        "image": "/images/projects/project-4.jpg"
+      },
+      {
+        "id": "5",
+        "title": "Al Madinah Villa Estate",
+        "category": "Residential",
+        "location": "Madinah, Saudi Arabia",
+        "description": "Luxury villa finishing including marble, wood, and custom interiors.",
+        "image": "/images/projects/project-5.jpg"
+      },
+      {
+        "id": "6",
+        "title": "Central Business Plaza",
+        "category": "Commercial",
+        "location": "Riyadh, Saudi Arabia",
+        "description": "Commercial finishing and MEP works for a landmark business center.",
+        "image": "/images/projects/project-6.jpg"
+      }
+    ]
+  },
+  "partners": {
+    "eyebrow": "Trusted By",
+    "heading": "Our Partners & Clients",
+    "description": "We are proud to collaborate with leading organizations across Saudi Arabia."
+  },
+  "testimonials": {
+    "eyebrow": "What Our Clients Say",
+    "heading": "Trusted Voices Behind Our Work",
+    "description": "Real feedback from clients who trusted Golden Tops to deliver reliable execution, premium finishing, and long-term value.",
+    "items": [
+      {
+        "quote": "Golden Tops handled our finishing scope with impressive attention to detail. Communication was clear, delivery was on schedule, and the final quality exceeded our expectations.",
+        "name": "Gassem Faisel",
+        "role": "Project Manager"
+      },
+      {
+        "quote": "Their team was highly professional from the first site visit through handover. The coordination, workmanship, and responsiveness made the entire process smooth and dependable.",
+        "name": "Fahd Al-Mohamedy",
+        "role": "Hotel Manager"
+      },
+      {
+        "quote": "We value partners who understand quality and execution discipline. Golden Tops delivered both, and the finished result reflected the premium standard we were aiming for.",
+        "name": "Khalid Ibrahim",
+        "role": "Chief Executive Officer"
+      }
+    ]
+  },
+  "cta": {
+    "heading": "Need Help With Your Next Project?",
+    "description": "Let's discuss how we can bring your vision to life with premium quality and professional execution.",
+    "button": "Request Consultation",
+    "phone": "Call Us Now"
+  },
+  "about": {
+    "pageTitle": "About Us",
+    "pageDescription": "Building trust through quality, innovation, and unwavering commitment to excellence.",
+    "overviewTitle": "Who We Are",
+    "overviewText": "Golden Tops is a distinguished contracting and finishing company headquartered in Riyadh, Saudi Arabia. With over 15 years of experience, we specialize in delivering premium-quality projects spanning design, MEP, finishing, and maintenance services across residential, commercial, hospitality, and office sectors.",
+    "overviewText2": "Our team of skilled professionals is committed to exceeding client expectations through innovative solutions, meticulous craftsmanship, and reliable project delivery. We take pride in building lasting partnerships founded on trust, quality, and mutual success.",
+    "mission": {
+      "title": "Our Mission",
+      "text": "To deliver exceptional contracting and finishing solutions that transform spaces and exceed expectations, while maintaining the highest standards of quality, safety, and sustainability."
+    },
+    "vision": {
+      "title": "Our Vision",
+      "text": "To be the most trusted and preferred contracting partner in Saudi Arabia, recognized for innovation, quality, and client satisfaction in every project we undertake."
+    },
+    "values": {
+      "title": "Our Values",
+      "items": [
+        "Integrity",
+        "Quality",
+        "Innovation",
+        "Safety",
+        "Collaboration",
+        "Excellence"
+      ]
+    },
+    "approachTitle": "Our Approach",
+    "approach": [
+      {
+        "title": "Innovation",
+        "desc": "Embracing modern technologies and creative solutions to deliver outstanding results."
+      },
+      {
+        "title": "Quality Commitment",
+        "desc": "Unwavering dedication to quality in every detail, from planning to completion."
+      },
+      {
+        "title": "Sustainability",
+        "desc": "Incorporating environmentally responsible practices across all our operations."
+      },
+      {
+        "title": "Timely Delivery",
+        "desc": "Meeting deadlines with precision through efficient project management."
+      },
+      {
+        "title": "Client Collaboration",
+        "desc": "Working closely with clients to ensure their vision is realized perfectly."
+      }
+    ],
+    "whyTitle": "Why Clients Choose Us",
+    "whyItems": [
+      {
+        "title": "Skilled Team",
+        "desc": "Experienced professionals with diverse expertise across all disciplines."
+      },
+      {
+        "title": "Clear Communication",
+        "desc": "Transparent and proactive communication throughout every project phase."
+      },
+      {
+        "title": "Reliable Execution",
+        "desc": "Consistent delivery that meets the highest industry standards."
+      },
+      {
+        "title": "End-to-End Service",
+        "desc": "Complete project lifecycle management from concept to completion."
+      },
+      {
+        "title": "Ongoing Support",
+        "desc": "Dedicated post-project support ensuring long-term satisfaction."
+      }
+    ]
+  },
+  "contact": {
+    "pageTitle": "Contact Us",
+    "pageDescription": "Get in touch with our team to discuss your project requirements.",
+    "formTitle": "Send Us a Message",
+    "nameLabel": "Full Name",
+    "namePlaceholder": "Enter your full name",
+    "emailLabel": "Email Address",
+    "emailPlaceholder": "Enter your email",
+    "phoneLabel": "Phone Number",
+    "phonePlaceholder": "Enter your phone number",
+    "serviceLabel": "Service Interested In",
+    "servicePlaceholder": "Select a service",
+    "messageLabel": "Message",
+    "messagePlaceholder": "Tell us about your project...",
+    "submitButton": "Send Message",
+    "infoTitle": "Get In Touch",
+    "address": "Riyadh, Saudi Arabia",
+    "phone": "+966 XX XXX XXXX",
+    "whatsapp": "+966 XX XXX XXXX",
+    "email": "info@goldentops.com",
+    "workingHours": "Sunday – Thursday: 8:00 AM – 5:00 PM",
+    "chatWhatsapp": "Chat on WhatsApp",
+    "callNow": "Call Us Now"
+  },
+  "footer": {
+    "description": "Golden Tops is a leading contracting and finishing company delivering premium quality projects across Saudi Arabia.",
+    "quickLinks": "Quick Links",
+    "servicesTitle": "Services",
+    "contactTitle": "Contact Us",
+    "copyright": "© 2026 Golden Tops. All rights reserved."
+  }
+}
