@@ -250,11 +250,18 @@ export default function Footer({ locale, dict }: FooterProps) {
           <p className="text-sm text-secondary-300/75">
             {dict.footer.copyright}
           </p>
-          <p className="text-xs font-medium uppercase tracking-[0.16em] text-secondary-400/80">
-            {isArabic
-              ? "مقاولات وتشطيبات بمعايير تنفيذ متميزة"
-              : "Contracting & Finishing with Premium Execution Standards"}
-          </p>
+          <div className="space-y-1 text-center md:text-right">
+            <p className="text-xs font-medium uppercase tracking-[0.16em] text-secondary-400/80">
+              {isArabic
+                ? "مقاولات وتشطيبات بمعايير تنفيذ متميزة"
+                : "Contracting & Finishing with Premium Execution Standards"}
+            </p>
+            <p className="text-xs text-primary-300/90">
+              {isArabic
+                ? "تصميم وتطوير: Moaz Khalifa"
+                : "Designed & Developed by Moaz Khalifa"}
+            </p>
+          </div>
         </Container>
       </div>
     </footer>
